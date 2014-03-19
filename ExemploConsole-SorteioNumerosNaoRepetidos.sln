@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemploConsole-SorteioNumerosNaoRepetidos", "ExemploConsole-SorteioNumerosNaoRepetidos\ExemploConsole-SorteioNumerosNaoRepetidos.csproj", "{14CA279D-8981-488D-B6F6-2E4B887510BD}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ExemploConsole-SorteioNumerosNaoRepetidosVB", "ExemploConsole-SorteioNumerosNaoRepetidosVB\ExemploConsole-SorteioNumerosNaoRepetidosVB.vbproj", "{E49DDC46-4058-4E4E-BD79-E8917ADC0E79}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{14CA279D-8981-488D-B6F6-2E4B887510BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14CA279D-8981-488D-B6F6-2E4B887510BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14CA279D-8981-488D-B6F6-2E4B887510BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E49DDC46-4058-4E4E-BD79-E8917ADC0E79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E49DDC46-4058-4E4E-BD79-E8917ADC0E79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E49DDC46-4058-4E4E-BD79-E8917ADC0E79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E49DDC46-4058-4E4E-BD79-E8917ADC0E79}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
